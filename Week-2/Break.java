@@ -5,7 +5,7 @@ public class Break {
         Scanner sc = new Scanner(System.in);
 
         for(int i = 0; i < 10; i++){
-            System.out.println("Choose A, B, or C, or type quite to end.");
+            System.out.println("Choose A, B, or C, or type quit to end.");
 
             String choice = sc.nextLine();
 
